@@ -34,3 +34,11 @@
         <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
 </div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vecinessi/Vecinessi/raw/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Vecinessi/Vecinessi/raw/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/Vecinessi/Vecinessi/raw/output/github-snake-dark.svg" />
+  </picture>
+</div>
